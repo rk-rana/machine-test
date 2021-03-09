@@ -7,17 +7,17 @@ npm start for both frontend and backend task
 
 # And in backend i have use these packages
 
-Body Parser
-Cors
-Express
-Mongoose (For Database)
-Nodemon
+1. Body Parser
+2. Cors
+3. Express
+4. Mongoose (For Database)
+5. Nodemon
 
 # And in Frontend i have use these packages
 
-axios
-react
-react-dom
-react-router-dom
+1. axios
+2. react
+3. react-dom
+4 react-router-dom
 
 pagination is not there.
